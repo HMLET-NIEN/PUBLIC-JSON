@@ -1,1 +1,1 @@
-{ "com.hmlet.android.debug": { "minVersionName": "3.20", "enable": true, "force": false } }
+{ "com.hmlet.android": { "minVersionName": "3.20", "enable": true, "force": false } }
