@@ -1,0 +1,10 @@
+// 20220929053529
+// https://raw.githubusercontent.com/HMLET-NIEN/PUBLIC-JSON/main/app_deprecate.json
+
+{
+  "com.hmlet.android.debug": {
+    "minVersionName": "3.20.1",
+    "enable": true,
+    "force": false
+  }
+}
